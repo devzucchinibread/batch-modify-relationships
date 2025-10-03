@@ -14,3 +14,9 @@ For this repository, I demonstrate it with a Work Order History (WOH) table,
 but the logic applies to any dataset.
 
 Requirements: Arcpy, ArcGIS Pro/Arcmap
+
+Quick Demo (GIF)
+
+A short before-and-after of the tool in action:
+
+![Batch Modify Relates Demo](docs/woh_demo.gif)
