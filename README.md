@@ -1,5 +1,5 @@
 # Batch Modify Relates (ArcPy)
-(docs/modifywohrel_demo.gif)
+![Batch Modify Relates Demo](docs/modifywohrel_demo.gif)
 
 This ArcPy tool automates the process of modifying relationships between 
 feature classes and related tables in bulk.  
